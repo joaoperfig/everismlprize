@@ -1,5 +1,5 @@
 # Everis Machine Learning Prize
-This repository contains our project for the Everis Machine Learning Prize competition. This project was developed by [João figueira](https://github.com/joaoperfig) and [Tiago Almeida](https://github.com/ForbiddenOne).
+This repository contains our project for the Everis Machine Learning Prize competition. This project was developed by [João Figueira](https://github.com/joaoperfig) and [Tiago Almeida](https://github.com/ForbiddenOne).
 
 The objective was to create a dataset and train a neural network that could indentify multiple (possibly different) fruits in images.
 
