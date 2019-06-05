@@ -19,6 +19,5 @@ The second approach is a convolutional neural network created by us and trained 
 ![Example 4](https://github.com/joaoperfig/everismlprize/blob/master/Results/Our%20NN/oiNEW.jpg)
 
 
-For more information read our paper.
+For more information read our [paper](https://github.com/joaoperfig/everismlprize/blob/master/Everis_Prize.pdf) where you can also find links to Google Colab notebooks containing working versions of the code.
 
-To run use:
