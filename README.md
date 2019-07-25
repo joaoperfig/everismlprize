@@ -31,7 +31,7 @@ The third approach is a mix of the previous ones, a YOLO model trained with our 
   <img src="https://github.com/joaoperfig/everismlprize/blob/master/Results/Final%20results/Picture3.jpg">
 </p>
 <p align="center">
-  <img src="https://github.com/joaoperfig/everismlprize/blob/master/Results/Final%20results/Picture4jpg">
+  <img src="https://github.com/joaoperfig/everismlprize/blob/master/Results/Final%20results/Picture4.jpg">
 </p>
 
 For more information read our [presentation](https://github.com/joaoperfig/everismlprize/blob/master/Presentation/Tutti_Viewti_Presentation.pdf) or our [paper](https://github.com/joaoperfig/everismlprize/blob/master/Everis_Prize.pdf) (paper does not include latest approach) where you can also find links to Google Colab notebooks containing working versions of the code.
